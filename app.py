@@ -6,6 +6,9 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 
+st.balloons()
+
+
 st.markdown('# Probability distributions')
 
 st.markdown('Ref: https://en.wikipedia.org/wiki/Probability_distribution')
